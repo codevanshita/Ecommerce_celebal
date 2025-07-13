@@ -8,7 +8,7 @@ const Footer = () => {
             <div>
                 <img src={assets.logo} className='mb-5 w-32' alt='' />
                 <p className='w-full md:w-2/3 text-gray-600'>
-                    Hello, sanjay is here, Lets meet you to all in company time!
+                    Hello, Vanshita is here, Lets meet you to all in company time!
                 </p>
             </div>
 
@@ -26,14 +26,14 @@ const Footer = () => {
                 <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
                     <li>+1-212-456-7890</li>
-                    <li>contact@SanjayCelebal.com</li>
+                    <li>contact@vanshitaCelebal.com</li>
                 </ul>
             </div>
         </div>
         
         <div>
             <hr/>
-            <p className='py-5 text-sm text-center'>Copyright 2024@ SanjayCelebal.com - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2024@ VanCelebal.com - All Right Reserved.</p>
         </div>
     </div>
   )
