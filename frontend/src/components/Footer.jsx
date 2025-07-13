@@ -17,7 +17,7 @@ const Footer = () => {
              <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>Home</li>
                 <li>About us</li>
-                <li>Delivery</li>
+                <li>Delivery charges </li>
                 <li>Privacy Policy</li>
              </ul>
             </div>
@@ -25,7 +25,7 @@ const Footer = () => {
             <div>
                 <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-1 text-gray-600'>
-                    <li>+1-212-456-7890</li>
+                    <li>+1-212-456-789544</li>
                     <li>contact@vanshitaCelebal.com</li>
                 </ul>
             </div>
